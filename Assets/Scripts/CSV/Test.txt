@@ -1,0 +1,12 @@
+NAME	EMOTION	ANIMATION	KOR	ENG	JAP
+JUSTIA		CREATE	···		
+NIGHTINGALE		CREATE	···		
+JUSTIA			그래서, 확인해본 결과는?		
+NIGHTINGALE		Jump	지금까지 이성과 한번도 접촉한 적이 없는 아주 순수한 영혼입니다.		
+P			"···그거 칭찬맞죠?"		
+JUSTIA		Push	그런가, 그래서 다음 계승자가 된 것이로군.		
+Teresa	한숨	등장	후..아깐 정말 참기 힘들었어..		
+NIGHTINGALE	웃음	빠르게등장	하핫! 나 다 들었다 들었다고		
+Teresa	부끄	점프	아..아니 그런말이 아니라!		
+Teresa	진지	땀뻘뻘	정말..멋대로 상상하지 마시라구요..		
+P			"그건 좀..." 가만히 있어야겠다.		

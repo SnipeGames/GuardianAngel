@@ -24,6 +24,13 @@ MonoBehaviour:
     - Locale-ja
     - Preload
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c62786a8f172f5e4a8f4314acd03bd0d
+    m_Address: Character_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 0a2f0b40b102cf64a8ff2e53f26b5519, type: 2}
   m_SchemaSet:
