@@ -26,3 +26,5 @@ public enum Difficulty { Normal, Hard, Hell }
 public enum AchivementState { Incompleted ,Completed, Claimed }
 
 public enum DamageType { None , Melee, Missile , Explosion , Familiar , Curse , Area }
+
+public enum CurrentController {PC,GamePad }
